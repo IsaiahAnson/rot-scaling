@@ -25,12 +25,6 @@ Host only. Enemy stats are authoritative on the server and replicate through the
 
 ## Install
 
-### Mod manager
-
-Available on Thunderstore for the Grain Rot community - install it with the mod manager and it pulls the UE4SS overlay in as a dependency.
-
-### Manual
-
 Requires a working UE4SS install (experimental build, Aug 2026 or later).
 
 1. Download the release zip.
