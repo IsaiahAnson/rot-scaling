@@ -1,3 +1,5 @@
+<img src="icon.png" width="128" align="right" alt="RotScaling icon">
+
 # RotScaling
 
 A difficulty mod for **Grain Rot** (UE 5.7) built on [UE4SS](https://github.com/UE4SS-RE/RE-UE4SS).
